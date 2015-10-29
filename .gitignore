@@ -1,0 +1,6 @@
+*
+
+!*.enc
+!readme.md
+!.gitignore
+!*/
